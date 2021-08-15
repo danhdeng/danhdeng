@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danhdeng
-- 👀 I’m a fullstack developer, interested in React, Azure, Docker, Kubunetes, Microservices
-- 🌱 I’m currently focusing for Azure and React development
+- 👀 I’m a fullstack developer, interested in React,Django, Azure, Docker, Kubunetes, Microservices
+- 🌱 I’m currently focusing for Azure, Django and React development
 - 💞️ I’m looking to collaborate on Azure and React development
 - 📫 How to reach me huidh@yahoo.com
 
